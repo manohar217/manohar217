@@ -30,6 +30,6 @@
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=manohar217&theme=dark&dates=33C4FF)
   
-[![Raj Manohar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manohar217&theme=react-dark)](https://github.com/saitejairrinki/github-readme-activity-graph)
+[![Raj Manohar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manohar217&theme=react-dark)](https://github.com/manohar217/github-readme-activity-graph)
 
 </div>
